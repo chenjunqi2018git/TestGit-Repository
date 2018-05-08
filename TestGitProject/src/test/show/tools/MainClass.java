@@ -6,10 +6,6 @@ public class MainClass {
 		// TODO Auto-generated method stub
 		System.out.println("test git From MainClass!!");
 
-		
-		
-		
-		
 		TestClass testClass = new TestClass();
 		testClass.show();
 	}
