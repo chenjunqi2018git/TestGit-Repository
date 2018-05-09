@@ -16,9 +16,13 @@ public class MainClass {
 		// web edit222
 
 		System.out.println("test3333 git From MainClass!!");// develop_chenjunqiで修正しました。
-//kkkkk
-		///dsfdsfdsf
-
+//<<<<<<< HEAD
+////kkkkk
+//		///dsfdsfdsf
+//
+//=======
+////wwwwwwwwwwwwwwwwwwwwww
+//>>>>>>> branch 'develop_chenjunqi' of https://github.com/chenjunqi2018git/TestGit-Repository.git
 	}
 
 }
