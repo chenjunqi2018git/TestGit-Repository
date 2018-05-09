@@ -19,7 +19,11 @@ public class MainClass {
 		// web edit333 0509
 //local merge
 		//web
+//<<<<<<< HEAD
 		//locallocallocallocallocallocallocallocal
+//=======
+//>>>>>>> branch 'develop_chenjunqi' of https://github.com/chenjunqi2018git/TestGit-Repository.git
+		//12213333333333333333333333331
 	}
 
 }
