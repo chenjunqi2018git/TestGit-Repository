@@ -18,7 +18,7 @@ public class MainClass {
 		System.out.println("test3333 git From MainClass!!");// develop_chenjunqiで修正しました。
 		// web edit333 0509
 		// sdfdsfsdf
-		//dddddd
+		//ddddddss
 	}
 
 }
