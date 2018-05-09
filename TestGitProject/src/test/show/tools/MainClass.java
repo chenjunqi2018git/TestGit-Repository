@@ -16,15 +16,8 @@ public class MainClass {
 		// web edit222
 
 		System.out.println("test3333 git From MainClass!!");// develop_chenjunqiで修正しました。
-		// web edit333 0509
-//local merge
-		//web
-//<<<<<<< HEAD
-		//locallocallocallocallocallocallocallocal
-//=======
-//>>>>>>> branch 'develop_chenjunqi' of https://github.com/chenjunqi2018git/TestGit-Repository.git
-		//12213333333333333333333333331
-		//chenjunqi
+
+		//chenjunqi add
 	}
 
 }
