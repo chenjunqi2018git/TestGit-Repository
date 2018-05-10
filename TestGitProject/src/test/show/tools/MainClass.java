@@ -10,21 +10,23 @@ public class MainClass {
 
 		TestClass testClass = new TestClass();
 		testClass.show();
+
+		System.out.println("test2222 git From MainClass!!");
+
+		// web editXXXXXXXXXXXXXXXXXXXX
+		// local merged
+		// web edit222
+
+		System.out.println("test3333 git From MainClass!!");// develop_chenjunqiで修正しました。
+		//dfdsfdsfssssssssssssssssssssssssssssssssssssss
 		
-		System.out.println("test2222 git From MainClass!!！！！jjjjjjjjjjj");
-		System.out.println("test3333 git From MainClass!!！！sssssss！");//web add sssss
-		//web add sssss//web add ssssssdfds
-		//web add sssss
-		//web add sssss//web add sssss
-		//web add sssss
 		
-		
-		//web add sssss=====================================================
-		//web add sssss=====================================================
-		//web add sssss=====================================================
-		//web add sssss=====================================================
-		//web add sssss=====================================================
-		//web add sssss=====================================================qq
+		//chenjunqi web add.....
+		//chenjunqi web add.....
+		//chenjunqi web add.....
+		//chenjunqi web add.....
+		//chenjunqi web add.....
+
 	}
 
 }
