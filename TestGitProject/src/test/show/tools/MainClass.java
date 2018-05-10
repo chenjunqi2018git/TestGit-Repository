@@ -9,8 +9,8 @@ public class MainClass {
 		TestClass testClass = new TestClass();
 		testClass.show();
 
-		System.out.println("test2222 git From MainClass!!");
-		System.out.println("test3333 git From MainClass!!");
+		System.out.println("test2222 git From MainClass!!！！！");
+		System.out.println("test3333 git From MainClass!!！！！");
 	}
 
 }
