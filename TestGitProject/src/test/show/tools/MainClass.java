@@ -9,12 +9,12 @@ public class MainClass {
 
 		System.out.println("test2222 git From MainClass!!");
 
-		// web editXXXXXXXXXXXXXXXXXXXXsdfsdfssssssssssssswsss
-		// local mergedswsss
-		// web edit222swswssss
+		// web editXXXXXXXXXXXXXXXXXXXXsdfsdfssssssssssssswssssdfsd
+		// local mergedswssssdf
+		// web edit222swswsssssdfsd
 
 		System.out.println("test3333 git From MainClass!!");// develop_chenjunqiで修正しました。
-		//dfdsfdsfssssssssssssssssssssssssssssssssssssss
+		//dfdsfdsfsssssssssssssssssssssssssssssssssssssssdfsdf
 		
 
 //lljjl
