@@ -12,5 +12,6 @@ public class TestClass {
 //>>>>>>> branch 'master' of https://github.com/chenjunqi2018git/TestGit-Repository.git
 //okookokokoffffffsdfdsfdssssss
 		//sdfdsfdsf
+		//master edit
 	}
 }
