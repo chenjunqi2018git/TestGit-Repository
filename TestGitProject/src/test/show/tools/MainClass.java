@@ -6,18 +6,11 @@ public class MainClass {
 		// TODO Auto-generated method stub
 		System.out.println("test1111 git From MainClass!!");
 
-
-
 		TestClass testClass = new TestClass();
 		testClass.show();
 
 		System.out.println("test2222 git From MainClass!!");
-
-		//web edit
-		//local merged
-		//local add222ddd
-		//web edit222sss
-//web edit222
+		System.out.println("test3333 git From MainClass!!");
 	}
 
 }
