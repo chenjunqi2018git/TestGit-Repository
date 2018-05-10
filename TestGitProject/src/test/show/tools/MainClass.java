@@ -4,7 +4,9 @@ public class MainClass {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+
 		System.out.println("test1111 git From MainClass!!");
+//oksadsad
 
 		TestClass testClass = new TestClass();
 		testClass.show();
@@ -16,14 +18,6 @@ public class MainClass {
 		// web edit222
 
 		System.out.println("test3333 git From MainClass!!");// develop_chenjunqiで修正しました。
-//<<<<<<< HEAD
-////kkkkk
-//		///dsfdsfdsf
-//
-//=======
-////wwwwwwwwwwwwwwwwwwwwww
-//>>>>>>> branch 'develop_chenjunqi' of https://github.com/chenjunqi2018git/TestGit-Repository.git
-
 		//dfdsfdsfssssssssssssssssssssssssssssssssssssss
 		
 		
@@ -32,6 +26,7 @@ public class MainClass {
 		//chenjunqi web add.....
 		//chenjunqi web add.....
 		//chenjunqi web add.....
+
 	}
 
 }
